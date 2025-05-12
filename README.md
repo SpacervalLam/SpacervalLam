@@ -12,6 +12,8 @@
 ## 🛠️ Skills
 
 - Python 🐍 | JavaScript ⚡ | HTML/CSS 🎨
+- Pytorch
+- Vue
 - Can Google like a pro
 - Expert in turning "It works on my machine" into a philosophy
 
@@ -29,7 +31,9 @@
 
 ## 📫 Contact Me
 
-- 📮 Mail: spacervallam@gmail.com 
+- 📮 Mail: spacervallam@gmail.com
+- 🧭 Genshin UID: 237775242 (CN Server)  
+  > Available for co-op, resin burns, and emotional support after bad artifact rolls.
 - 🖖 Telepathy: still in beta  
 
 ---
